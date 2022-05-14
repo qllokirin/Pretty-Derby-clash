@@ -85,3 +85,11 @@ parsers:
 进入游戏之后再切换到日本节点或者一个效果比较好的节点
 
 本人clash萌新，以上操作存在错误的话欢迎大家指正，为后面的萌新开开路
+
+---
+
+### 汉化安利
+
+哔哩哔哩指路：[【赛马娘】DMM版赛马娘本地化插件（部分汉化、解锁帧数）](https://www.bilibili.com/video/BV1vT4y1m7pE?spm_id_from=333.880.my_history.page.click)
+
+github仓库：**[ Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G)**
